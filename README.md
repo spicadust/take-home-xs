@@ -1,6 +1,6 @@
 # Hauser Group — Take Home
 ### Important
-**We respect your time, so please do not spend more than ~2 hours.** If you run out of time, just state so. This is by no means an exam and there is no pass or fail. It is a way for you to get a sense of work you could be doing and a way for us to get a sense of which project might be a fit for you. That being said, we strongly value code accesibility and useability in the group. 
+**We respect your time, so please do not spend more than ~2 hours.** If you run out of time, just state so. This is by no means an exam and there is no pass or fail. It is a way for you to get a sense of work you could be doing and a way for us to get a sense of which project might be a fit for you. That being said, we strongly value code, documentation, accesibility, and useability in the group. 
 
 ### Introduction
 One of the questions we are interested in in the group is how changes in G-protein coupled reeceptor (GPCR) function can be linked to disease and medication phenotypes. In this toy example, you will explore the link between missense variants in the μ opioid receptor gene (_OPRM1_) and alcohol intake in the UK Biobank. 
@@ -21,3 +21,9 @@ Feel free to work in whatever programming language you are comfortable with but 
 
 ### Deliverables
 Please return your code, setup files, and all outputs either as a GitHub repository or in a ZIP file. 
+
+![Heatmap](score_heatmap.png)
+_An example of deleteriousness scores in some protein (**Not OPRM1!**). Along the x-axis is each position in the protein and the y-axis is each possible amino acid substitution. Red denotes more damaging mutants_
+
+![Manhattan](genebass_associations.png)
+_A Manhattan plot showing phenotypic associations in Genebass for all OPRM1 variants in aggregate. Each colored dot is a phenotype and associated -log10(P) and Beta is shown on the y-axis. Alcohol intake is marked with blue circle. 
