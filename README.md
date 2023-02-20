@@ -1,6 +1,6 @@
 # Hauser Group — Take Home
 ### Important
-**We respect your time, so please do not spend more than ~2 hours.** If you run out of time, just state so. This is by no means an exam and there is no pass or fail. It is a way for you to get a sense of work you could be doing and a way for us to get a sense of which project might be a fit for you. That being said, we strongly value code, documentation, accesibility, and useability in the group. 
+**We respect your time, so please do not spend more than ~2 hours.** If you run out of time, just state so. This is by no means an exam and there is no pass or fail. It is a way for you to get a sense of work you could be doing and a way for us to get a sense of which project might be a fit for you. That being said, we strongly value code documentation, accesibility, and useability. 
 
 ### Introduction
 One of the questions we are interested in in the group is how changes in G-protein coupled reeceptor (GPCR) function can be linked to disease and medication phenotypes. In this toy example, you will explore the link between missense variants in the μ opioid receptor gene (_OPRM1_) and alcohol intake in the UK Biobank. 
