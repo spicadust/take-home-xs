@@ -22,8 +22,11 @@ Feel free to work in whatever programming language you are comfortable with but 
 ### Deliverables
 Please return your code, setup files, and all outputs either as a GitHub repository or in a ZIP file. 
 
-![Heatmap](score_heatmap.png)
+### Images  
+![Heatmap](score_heatmap.png)  
+
 _An example of deleteriousness scores in some protein (**Not OPRM1!**). Along the x-axis is each position in the protein and the y-axis is each possible amino acid substitution. Red denotes more damaging mutants_
 
-![Manhattan](genebass_associations.png)
-_A Manhattan plot showing phenotypic associations in Genebass for all OPRM1 variants in aggregate. Each colored dot is a phenotype and associated -log10(P) and Beta is shown on the y-axis. Alcohol intake is marked with blue circle. 
+![Manhattan](genebass_associations.png)  
+
+_A Manhattan plot showing phenotypic associations in Genebass for all OPRM1 variants in aggregate. Each colored dot is a phenotype and associated -log10(P) and Beta is shown on the y-axis. Alcohol intake is marked with blue circle._ 
